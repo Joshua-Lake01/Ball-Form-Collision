@@ -1,0 +1,11 @@
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\bin\Debug\Bouncing Ball test.exe.config
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\bin\Debug\Bouncing Ball test.exe
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\bin\Debug\Bouncing Ball test.pdb
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\bin\Debug\Bouncing Ball test.xml
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing_Ball_test.Form1.resources
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing_Ball_test.Resources.resources
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing Ball test.vbproj.GenerateResource.cache
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing Ball test.vbproj.CoreCompileInputs.cache
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing Ball test.exe
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing Ball test.xml
+C:\Users\lakes\source\repos\Bouncing Ball test\Bouncing Ball test\obj\Debug\Bouncing Ball test.pdb
